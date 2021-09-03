@@ -1,0 +1,14 @@
+.category-from-container {
+  display: flex;
+}
+.category-from-container form {
+  margin: 5% auto;
+}
+
+.direction {
+  direction: rtl;
+}
+
+.search {
+  width: 20rem;
+}
